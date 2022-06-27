@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("go-shared-module")
+	fmt.Println("github.com/wanchai23chai/simple-go-shared-module")
 }
